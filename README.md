@@ -4,11 +4,11 @@
 
 
 
-<img width="422" height="100" alt="2_sin_título_20251105163249-removebg-preview" src="https://github.com/user-attachments/assets/98c297a9-c40a-4c0d-8440-f5593527bc70" />
+<img width="600" height="100" alt="2_sin_título_20251105163249-removebg-preview" src="https://github.com/user-attachments/assets/98c297a9-c40a-4c0d-8440-f5593527bc70" />
 <br />
 <img width="422" height="592" alt="2_sin_título_20251105161314-removebg-preview" src="https://github.com/user-attachments/assets/a4a40751-3e50-49db-90a9-473519134ad7" />
 <br />
-<img width="422" height="100" alt="2_sin_título_20251105162919-removebg-preview" src="https://github.com/user-attachments/assets/3138e4f8-f185-4be1-9a2a-c5da169beb37" />
+<img width="600" height="100" alt="2_sin_título_20251105162919-removebg-preview" src="https://github.com/user-attachments/assets/3138e4f8-f185-4be1-9a2a-c5da169beb37" />
 
 
 
